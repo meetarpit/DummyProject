@@ -1,0 +1,1 @@
+kSpring-HiberNate configurations
